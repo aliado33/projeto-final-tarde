@@ -1,0 +1,131 @@
+body{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    background: #080808;
+
+}
+.menu{
+    height: 77px;
+    width: 1135px;
+    margin-left: 116px;
+    top: 0px;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    background: #1B1B1B;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+ul{
+    list-style: none;
+    display: flex;
+    padding: 29px 163px 30px 143px;
+    gap: 130px;
+    
+   
+}
+li{
+    font-family: 'IBM Plex Mono';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #9C9C9C;
+    
+}
+h1{ 
+    font-family: Raleway;
+    font-size: 44px;
+    font-weight: 800;
+    line-height: 52px;
+    color: white;
+
+
+}
+
+article{
+    width: 432px;
+    height: 423px;
+    top: 154px;
+    left: 201px;
+    right: 732px;
+    margin: 206px 728px 260px 206px;
+  
+}
+p{
+    color: #9C9C9C;
+    font-family: IBM Plex Mono;
+    font-size: 14px;
+    font-weight: 400;
+}
+h2{
+    font-family: IBM Plex Mono;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    padding-left: 78px;
+    padding-right: 79px;
+    color:white;
+
+
+}
+.botao{
+    background-color:  #3F8E00;
+    height: 62px;
+    width: 251px;
+    border-radius: 8px;
+    margin-top: 112px;
+    box-shadow: 0px 8px 30px 0px #3F8E0080;
+}
+h3{
+    height: 18px;
+    width: 111px;
+    color: #9C9C9C;
+    font-family: IBM Plex Mono;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 211px ;
+    margin-bottom: 89px;
+
+}
+.rodape ul{
+    height: 77px;
+    width: 327px;
+    margin-bottom: 0px;
+    background-color: #1B1B1B;
+    border-top-left-radius: 16px;
+    border-top-right-radius:16px ;
+    margin-left: 211px;
+    display: flex;
+   
+
+
+
+}
+img{
+    width: 40px;
+    height: 40px;
+}
+.redes {
+    display: flex;
+    height: 43px;
+    align-items: center;
+    justify-content: center;
+  
+}
+.foto{
+    height: 442px;
+    width: 442px;
+    position: absolute;
+    height: 442px;
+    width: 442px;
+    left: 809px;
+    top: 183px;
+
+
+
+
+}
